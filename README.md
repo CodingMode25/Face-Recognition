@@ -1,8 +1,6 @@
 # Simple OpenCV Face Recognition in Python
 
 
-Face Recognition tutorial refference for http://thecodacus.com 
-
 ### Prerequisites
 * Python 3.6.4
 * OpenCV 3.4.1 or opencv-contrib-python 4.0
@@ -11,8 +9,7 @@ Face Recognition tutorial refference for http://thecodacus.com
 
 ### Installing
 
-* Create an empty Folder named **"dataSet"** in the same directory where the python scripts are 
-* Create an empty folder called **trainer** In same directory 
+* Download Above Repository 
 
 ## Running the tests
 
@@ -22,5 +19,5 @@ Face Recognition tutorial refference for http://thecodacus.com
 
 ## Authors
 
-* **[Anirban Kar](http://thecodacus.com/author/admin/)**
-* **[P.T.C.M. Tholhuijsen](https://github.com/mandjevant/)**
+* **[Sitesh Sawant]**
+
