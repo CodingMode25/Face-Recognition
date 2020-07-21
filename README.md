@@ -7,9 +7,20 @@
 * Numpy
 * Pillow
 
-### Installing
+### Installing (Windows)
 
 * Download Above Repository 
+* Then Follow this Steps
+  import os
+  print(os.getcwd()) # this will print the path to currrent working directory
+* Go to that path and open scripts folder
+* hold ctrl and click right mouse key
+* select open command prompt here
+* then check version of python and install required libraries
+  1-python --version
+  2-pip install opencv-contrib-python
+  3-pip install numpy
+  4-pip install pillow
 
 ## Running the tests
 
