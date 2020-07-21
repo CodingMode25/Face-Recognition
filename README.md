@@ -17,10 +17,10 @@
 * hold ctrl and click right mouse key
 * select open command prompt here
 * then check version of python and install required libraries
-  1-python --version
-  2-pip install opencv-contrib-python
-  3-pip install numpy
-  4-pip install pillow
+*  1-python --version
+*  2-pip install opencv-contrib-python
+*  3-pip install numpy
+*  4-pip install pillow
 
 ## Running the tests
 
